@@ -1,0 +1,58 @@
+.bg-nataphet {
+    background: #008080;
+}
+.bg-phet{
+     background: #f4f6f6;
+     color: #414546;
+    
+}
+.bg-mikro{
+    background: #772b2f;
+    border-color: #5c1d21;
+}
+.bg-chrm{
+    background: #ffffff;   
+  
+}
+.nat {
+    border-color: #777;
+    border-width: 0 0 1px;
+}
+.gb_Fd {
+    -moz-box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.2);
+}
+
+.bg-light {
+    background-color: #fff !important;
+  
+}
+.post-content  {
+    font-family: "Merriweather",Roboto, Georgia, Sans-serif;
+    color: #3c4043;
+}
+
+
+:root {
+   
+    --link-color: #00c7b7;
+    --border-color: #ddd;
+    --font-sans: "PT Sans",Roboto,sans-serif;
+    --font-serif: Roboto,Merriweather,Georgia,Sans-serif;
+}
+.navbar-brand{font-weight: 700;}
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5,
+.post-content h6 {
+    font-family: Robo,sans-serif;
+    margin: 1em 0;
+}  
+
+.post-content img {
+    max-width: 100%;
+}
+.card {
+    word-wrap: break-word;
+}

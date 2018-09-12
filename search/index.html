@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Searches</title>
+
+  <link rel='canonical' href='http://www.nataphet.xyz/search/'>
+  
+    <link href="http://www.nataphet.xyz/search/index.xml" rel="alternate" type="application/rss+xml" title="Nata Phet" />
+  
+  
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+
+<meta itemprop="name" content="Searches">
+<meta itemprop="description" content="">
+
+
+
+<meta property="og:title" content="Searches" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.nataphet.xyz/search/" />
+
+
+
+<meta property="og:updated_time" content="2018-09-11T22:09:05&#43;07:00"/>
+
+
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Searches"/>
+<meta name="twitter:description" content=""/>
+
+
+
+
+<link rel="icon" href="/img/logos.png" />
+
+
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/prism.css" />
+
+
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
+
+
+
+
+    </head>
+
+    <body class="bg-light" cz-shortcut-listen="true">
+       <nav class="navbar navbar-expand-lg gb_Fd nat navbar-dark bg-chrm sticky-top" style="z-index: 1025;">
+    <div class="container">
+
+        <a class="navbar-brand" href="http://www.nataphet.xyz/"><img src="/img/logos.png" width="30" height="30" class="d-inline-block align-top rounded-circle"
+            alt=""> Nata Phet</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                   
+                          
+                            <li class="nav-item">
+                                <a class="nav-link" href="/about">About</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/service">Service</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/gallery">Gallery</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/blog">Blog</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/contact">Contact</a>
+                            </li>
+                             
+              
+            </ul>
+            <form class="form-inline my-2 my-lg-0" action="/search/" id="cse-search-box">
+                <input type="hidden" name="cx" value="partner-pub-6279325630224392:9670052267" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="hidden" name="sa" value="search" />
+                <input class="form-control mr-sm-2" type="text" name="q" placeholder="Kata Kunci" aria-label="Search">
+                <button class="btn btn-primary my-2 my-sm-0" type="submit">Cari</button>
+            </form>
+        </div>
+    </div>
+</nav>
+   
+    
+        <div id="search-app" class="container">
+            
+          
+
+            
+            <section class="row mb-5">
+                <post-card
+                    v-for="post in searchResult.items"  
+                    v-bind:post="post">
+                </post-card>
+            </section>
+       </div>
+       
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-router/3.0.1/vue-router.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios@0.12.0/dist/axios.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/lodash@4.13.1/lodash.min.js"></script>
+        <script src="/js/search.js"></script>
+    </body>
+</html>

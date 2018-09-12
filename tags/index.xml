@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nata Phet</title>
+    <link>http://www.nataphet.xyz/tags/</link>
+    <description>Recent content in Tags on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Nata Phet; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.nataphet.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business</title>
+      <link>http://www.nataphet.xyz/tags/business/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://www.nataphet.xyz/tags/inspiration/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>http://www.nataphet.xyz/tags/internet/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>http://www.nataphet.xyz/tags/motivation/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://www.nataphet.xyz/tags/people/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://www.nataphet.xyz/tags/tech/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://www.nataphet.xyz/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
