@@ -3,148 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.nataphet.xyz/blog/search/</loc>
-    <lastmod>2018-09-11T22:09:05+07:00</lastmod>
+    <loc>https://nataphet.github.io/artikel/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/search/search/</loc>
-    <lastmod>2018-09-11T22:09:05+07:00</lastmod>
+    <loc>https://nataphet.github.io/hal-penting-dalam-setting-ap/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/blog/</loc>
-    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+    <loc>https://nataphet.github.io/kategori/hardware/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/blog/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <loc>https://nataphet.github.io/topik/hotspot/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/blog/building-an-online-audience/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+    <loc>https://nataphet.github.io/kategori/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/blog/space-shouldnt-be-the-final-frontier/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <loc>https://nataphet.github.io/topik/mikortik/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/contact/</loc>
+    <loc>https://nataphet.github.io/topik/networking/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/kategori/oprek/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/</loc>
+    <lastmod>2019-08-14T22:34:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/download/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/download-subtitle-streaming/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/internet/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/kategori/multimedia/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/streaming/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/tips/</loc>
+    <lastmod>2019-07-22T00:39:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/fix/</loc>
+    <lastmod>2019-07-11T19:08:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/jasa-service/</loc>
+    <lastmod>2019-07-11T19:08:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/topik/mikrotik/</loc>
+    <lastmod>2019-07-11T19:08:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/service/</loc>
+    <lastmod>2019-07-11T19:08:36+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/ebook/</loc>
+    <lastmod>2019-07-02T20:16:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/</loc>
+    <lastmod>2019-07-02T20:16:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/oprek/</loc>
+    <lastmod>2019-07-02T11:51:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/mikrotik/</loc>
+    <lastmod>2019-07-02T09:37:32+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/networking/</loc>
+    <lastmod>2019-07-02T07:58:54+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/contoh2/</loc>
+    <lastmod>2019-07-01T16:58:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/tutorial/</loc>
+    <lastmod>2019-07-01T16:14:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/</loc>
+    <lastmod>2019-07-01T16:14:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/flasdisk-read-only-di-ubuntu/</loc>
+    <lastmod>2018-10-04T12:53:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nataphet.github.io/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.nataphet.xyz/gallery/</loc>
-    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/service/</loc>
-    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/about/</loc>
+    <loc>https://nataphet.github.io/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/caramel-bottle/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/shopping-bag-concept/</loc>
-    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/makeup-element/</loc>
-    <lastmod>2018-07-12T16:57:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/table-design/</loc>
-    <lastmod>2018-07-12T16:56:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/bottle-mockup/</loc>
-    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/dew-drop/</loc>
-    <lastmod>2018-07-12T16:53:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/business/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/internet/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/</loc>
-    <lastmod>2018-09-11T22:09:05+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/people/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/portfolio/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/search/</loc>
-    <lastmod>2018-09-11T22:09:05+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.nataphet.xyz/tags/tech/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
